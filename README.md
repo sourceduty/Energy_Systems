@@ -64,4 +64,4 @@ To overcome the limitations of solar power, other technologies are being explore
 [Energy](https://github.com/sourceduty/Energy)
 
 ***
-https://github.com/sourceduty/Energy
+Copyright (C) 2024, Sourceduty - All Rights Reserved.
