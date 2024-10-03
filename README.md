@@ -53,6 +53,25 @@ Off-grid power in aerospace applications, particularly for use on other planets 
 To overcome the limitations of solar power, other technologies are being explored and implemented. Radioisotope thermoelectric generators (RTGs) have been used successfully in deep space missions, such as the Voyager and Curiosity rover missions, providing continuous power by converting heat from radioactive decay into electricity. These systems are robust and can operate for decades without maintenance, making them ideal for long-duration missions where solar power is insufficient. Additionally, nuclear fission reactors are being developed as a more scalable and powerful solution, capable of providing consistent energy for habitats, vehicles, and scientific instruments on other planets.
 
 #
+
+| Energy Type         | Energy Complexity | Conversion Difficulty | Usability Difficulty | Easiest Convertible Format      |
+|---------------------|-------------------|-----------------------|----------------------|---------------------------------|
+| Solar Energy        | Low               | Easy                  | Easy                 | Electricity                     |
+| Wind Energy         | Low               | Easy                  | Easy                 | Electricity                     |
+| Hydroelectric Energy| Low               | Easy                  | Easy                 | Electricity                     |
+| Biomass Energy      | Medium            | Moderate              | Moderate             | Biofuel                         |
+| Geothermal Energy   | Medium            | Moderate              | Moderate             | Electricity                     |
+| Nuclear Energy      | High              | High                  | High                 | Heat / Electricity              |
+| Fossil Fuels        | Medium            | Moderate              | Moderate             | Heat / Electricity              |
+| Tidal Energy        | Medium            | Moderate              | Moderate             | Electricity                     |
+| Chemical Energy     | Medium            | Moderate              | Moderate             | Heat / Electricity              |
+| Mechanical Energy   | Low               | Easy                  | Easy                 | Mechanical work / Electricity   |
+| Thermal Energy      | Medium            | Moderate              | Moderate             | Heat                            |
+| Electrical Energy   | Low               | Easy                  | Easy                 | Electricity (direct usability)  |
+| Radiant Energy      | Low               | Moderate              | Easy                 | Electricity (via solar panels)  |
+| Sound Energy        | High              | High                  | High                 | Electricity (difficult, rare)   |
+
+#
 ### Related Links
 
 [Power-Time Logger](https://github.com/sourceduty/Power-Time_Logger)
