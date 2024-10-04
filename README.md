@@ -81,6 +81,8 @@ To overcome the limitations of solar power, other technologies are being explore
 [Power Grid Simulator](https://github.com/sourceduty/Power_Grid_Simulator)
 <br>
 [Energy](https://github.com/sourceduty/Energy)
+<br>
+[Electricity Game](https://github.com/sourceduty/Electricity_Game)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
